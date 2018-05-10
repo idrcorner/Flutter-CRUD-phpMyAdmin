@@ -1,6 +1,10 @@
-# mystore
+# Flutter + PhpMyAdmin
 
-A new Flutter project.
+Youtube Tutorial : https://goo.gl/kuvfUe
+
+REST APIFILE: https://github.com/idrcorner/PHP-REST-API
+
+Visit my site : http:idrcorner.com
 
 ## Getting Started
 
